@@ -1,9 +1,10 @@
-<!-- This is from a Spring tutorial,
-     https://github.com/spring-guides/gs-serving-web-content/blob/1187e29f9ecbb2fe090f7033d06e56bf08644e04/complete/pom.xml -->
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+
+    <!-- This is from a Spring tutorial,
+     https://github.com/spring-guides/gs-serving-web-content/blob/1187e29f9ecbb2fe090f7033d06e56bf08644e04/complete/pom.xml -->
 
     <groupId>org.springframework</groupId>
     <artifactId>gs-serving-web-content</artifactId>
